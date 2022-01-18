@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8640526528",
+    "project_id": "kotlinmessenger-6f64a",
+    "storage_bucket": "kotlinmessenger-6f64a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8640526528:android:39325bfc593ad31753d525",
+        "android_client_info": {
+          "package_name": "com.example.chatappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8640526528-1m0s33r710gjdah3fs1939dq341555vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABbcR0EIPMd3kaGIqm0fbPm4A5KfaSjss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8640526528-1m0s33r710gjdah3fs1939dq341555vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
